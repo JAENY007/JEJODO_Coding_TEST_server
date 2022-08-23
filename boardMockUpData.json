@@ -1,0 +1,134 @@
+{
+  "board": [
+    {
+        "id": 1,
+        "nickname": "차차",
+        "oname": "hyerincha",
+        "buildingcount": 15
+    },
+    {
+        "id": 2,
+        "nickname": "공인즙개사",
+        "oname": "jeup",
+        "buildingcount": 9
+    },
+    {
+        "id": 3,
+        "nickname": "AI",
+        "oname": "AI",
+        "buildingcount": 8
+    },
+    {
+        "id": 4,
+        "nickname": "소잃고뇌약간고침",
+        "oname": "외양간주인",
+        "buildingcount": 7
+    },
+    {
+        "id": 5,
+        "nickname": "성희",
+        "oname": "성희",
+        "buildingcount": 6
+    },
+    {
+        "id": 6,
+        "nickname": "목하",
+        "oname": "목하",
+        "buildingcount": 5
+    },
+    {
+        "id": 7,
+        "nickname": "이름",
+        "oname": "이름",
+        "buildingcount": 5
+    },
+    {
+        "id": 8,
+        "nickname": "이름",
+        "oname": "이름",
+        "buildingcount": 4
+    },
+    {
+        "id": 9,
+        "nickname": "이름",
+        "oname": "이름",
+        "buildingcount": 3
+    },
+    {
+        "id": 10,
+        "nickname": "이름",
+        "oname": "이름",
+        "buildingcount": 2
+    },
+    {
+        "id": 11,
+        "nickname": "이름",
+        "oname": "이름",
+        "buildingcount": 1
+    },
+    {
+        "id": 12,
+        "nickname": "이름",
+        "oname": "이름",
+        "buildingcount": 0
+    },
+    {
+        "id": 13,
+        "nickname": "이름",
+        "oname": "이름",
+        "buildingcount": 10
+    },
+    {
+        "id": 14,
+        "nickname": "이름",
+        "oname": "이름",
+        "buildingcount": 11
+    },
+    {
+        "id": 15,
+        "nickname": "이름",
+        "oname": "이름",
+        "buildingcount": 12
+    },
+    {
+        "id": 16,
+        "nickname": "이름",
+        "oname": "이름",
+        "buildingcount": 13
+    },
+    {
+        "id": 17,
+        "nickname": "이름",
+        "oname": "이름",
+        "buildingcount": 14
+    },
+    {
+        "id": 18,
+        "nickname": "이름",
+        "oname": "이름",
+        "buildingcount": 15
+    },
+    {
+        "id": 19,
+        "nickname": "이름",
+        "oname": "이름",
+        "buildingcount": 16
+    },
+    {
+        "id": 20,
+        "nickname": "이름",
+        "oname": "이름",
+        "buildingcount": 1
+    }
+  ],
+  "keyword": [
+    {"id": 1, "searchkeyword" : "제조도"},
+    {"id": 2, "searchkeyword" : "제조도메타버스"},
+    {"id": 3, "searchkeyword" : "제조도섬"},
+    {"id": 4, "searchkeyword" : "제조도콘텐츠"},
+    {"id": 5, "searchkeyword" : "제조도검색"},
+    {"id": 6, "searchkeyword" : "제조도입성"},
+    {"id": 7, "searchkeyword" : "제조도전입신고"},
+    {"id": 8, "searchkeyword" : "제조도출항"}
+  ]
+}
